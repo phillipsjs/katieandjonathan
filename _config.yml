@@ -1,33 +1,33 @@
 # site settings
 title: Katie and Jonathan
-subtitle: A wedding site
+subtitle: Our wedding website
 email: katiemika1@gmail.com
-description: A wedding site for Katie and Jonathan
+description: Our wedding info
 baseurl: "/katieandjonathan" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+url: https://phillipsjs.github.io
+author: j&k
+street_address: 28 E Wheelock St. Apt E
+city: Hanover
+state: NH
+zip_code: 03755
 country: United States of America
-phone: (716) 555-5555
+phone: (203) 654-9240
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 3
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/phillipsjs
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: 
+  Twitter: https://twitter.com/phillipsjs
   Facebook:
   Slack:
 
