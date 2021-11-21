@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Directions and Lodgint</h2>
+<h2 id="content">Directions and Lodging</h2>
 
 <p>Here's a bit more info on getting to Hanover (and staying here) </p>
 
@@ -29,8 +29,8 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Lodging</h3>
-		<p>Hanover Inn, address, - we will have a discounted room block at the Hanover Inn.</p>
-		<p>We recommend staying at the Hanover Inn, which is the location for Friday evening Welcome Drinks and the meeting point for transportation to Whaleback Mountain.</p>
+		<p>We will have a discounted room block at the <a href="https://www.hanoverinn.com/">Hanover Inn</a></p>
+		<p>If you can, we recommend staying there, as it is the location for Friday evening Welcome Drinks and a meeting point for transportation the ceremony at <a href="https://www.whaleback.com/">Whaleback Mountain</a>.</p>
 	</div>
 	<!-- Break -->
 	<!--
