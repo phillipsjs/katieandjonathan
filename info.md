@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wedding info
+title: Travel info
 description: Hanover, NH
 image: assets/images/whaleback.png
 nav-menu: true
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Wedding Info</h1>
+			<h1>Travel Info</h1>
 		</header>
 
 <!-- Content -->
@@ -29,8 +29,8 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Lodging</h3>
-		<p>We will have a discounted room block at the <a href="https://www.hanoverinn.com/">Hanover Inn</a></p>
-		<p>If you can, we recommend staying there, as it is the location for Friday evening Welcome Drinks and a meeting point for transportation the ceremony at <a href="https://www.whaleback.com/">Whaleback Mountain</a>.</p>
+		<p>We will have a discounted room block at the <a href="https://www.hanoverinn.com/">Hanover Inn and a couple of other local hotels. No need to book yet - we will provide more information soon.</a></p>
+		<p>If you can, staying the Hanover Inn might be the most convenient as it is the location for the Friday evening Welcome Drinks and a meeting point for transportation the ceremony at <a href="https://www.whaleback.com/">Whaleback Mountain</a>.</p>
 	</div>
 	<!-- Break -->
 	<!--
