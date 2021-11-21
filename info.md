@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wedding info
-subtitle: Hanover, NH
+description: Hanover, NH
 image: assets/images/whaleback.png
 nav-menu: true
 ---
