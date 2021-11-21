@@ -19,7 +19,7 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- Two -->
+<!-- Two 
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
@@ -71,7 +71,9 @@ nav-menu: true
 	</section>
 </section>
 
-<!-- Three -->
+--> 
+
+<!-- Three 
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -83,5 +85,7 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
+
+-->
 
 </div>
