@@ -17,9 +17,8 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">The Basics</h2>
-<p>We are delighted to invite our closest friends and family to join us in Hanover, NH for the weekend of August 20th 2022, when we will celebrate the life we’ve made with all of you.</p>
 
-<p>Stay tuned for much more information as the summer approaches, but for now, please take a minute to RSVP with your address to receive a formal, snail mail invitation this spring. We’re so excited!</p>
+<p>Here's a bit of of info on the wedding in case you're interested</p>
 
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -29,8 +28,8 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Lodging</h3>
-		<p>Hanover Inn, address, - we have a discounted room block at the Hanover Inn. When booking, mention the “Phillips-Mika Wedding.”</p>
-		<p>We highly recommend staying at the Hanover Inn, which is the location for Friday evening Welcome Drinks and the meeting point for transportation to Whaleback Mountain.</p>
+		<p>Hanover Inn, address, - we will have a discounted room block at the Hanover Inn.</p>
+		<p>We recommend staying at the Hanover Inn, which is the location for Friday evening Welcome Drinks and the meeting point for transportation to Whaleback Mountain.</p>
 	</div>
 	<!-- Break -->
 	<!--
