@@ -1,8 +1,8 @@
 # site settings
-title: Katie and Jonathan
-subtitle: Our wedding website
+title: Katie and Jonathan's
+subtitle: Wedding website
 email: katiemika1@gmail.com
-description: Our wedding info
+description: August 20th 2022
 baseurl: "/katieandjonathan" # the subpath of your site, e.g. /blog
 url: https://phillipsjs.github.io
 author: j&k
@@ -15,7 +15,7 @@ phone: (203) 654-9240
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 2
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
