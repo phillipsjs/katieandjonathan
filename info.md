@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Date and Location
+title: Wedding info
+subtitle: Hanover, NH
 image: assets/images/whaleback.png
 nav-menu: true
 ---
@@ -12,13 +13,13 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Date and Location</h1>
+			<h1>Wedding Info</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">The Basics</h2>
+<h2 id="content">Directions and Lodgint</h2>
 
-<p>Here's a bit of of info on the wedding in case you're interested</p>
+<p>Here's a bit more info on getting to Hanover (and staying here) </p>
 
 <div class="row">
 	<div class="6u 12u$(small)">
