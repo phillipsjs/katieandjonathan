@@ -13,4 +13,3 @@ Welcome drinks will be in the Hayward Room at the <a href="https://www.hanoverin
 # Ceremony & Reception - Saturday Afternoon
 
 The ceremony and reception will be held at <a href="https://www.whaleback.com/">Whaleback Mountain</a>, a tiny community ski hill that we love
-
