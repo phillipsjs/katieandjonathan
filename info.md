@@ -30,7 +30,12 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		<h3>Suggested Accommodations</h3>
 		<p><u>We will be providing transportation from downtown Hanover and White River Junction to Whaleback Mountain on Saturday.</u></p>
-		<p>In addition to the recommended hotels below, AirBnB and VRBO are a great option, especially for groups. There are a limited number of options in Hanover proper, but the towns of Norwich, Hartford, Wilder, Queechee, Lyme, Etna, Enfield, Lebanon, and White River Junction are all within a 15 minute drive from Hanover or Whaleback Mountain. <b>There is no Uber or Lyft in the Upper Valley; if you stay outside of downtown Hanover, you will need a car.<b> </p>
+		<p>In addition to the recommended hotels below, AirBnB and VRBO are a great option, especially for groups. There are a limited number of options in Hanover proper, but the towns of Norwich, Hartford, Wilder, Queechee, Lyme, Etna, Enfield, Lebanon, and White River Junction are all within a 15 minute drive from Hanover or Whaleback Mountain. <b>There is no Uber or Lyft in the Upper Valley; if` you stay outside of downtown Hanover, you will need a car.<b> </p>
+		<p> 
+		Six South Hotel <br>
+		6 South St, Hanover, NH 03755 <br>
+		(603) 643-0600 <br>
+		<a href="www.sixsouth.com">Sixsouth.com</a></p>	
 	</div>
 	<!-- Break -->
 	<!--
