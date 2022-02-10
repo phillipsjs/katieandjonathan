@@ -25,7 +25,7 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Getting Here</h3>
 		<p>The closest airports are Manchester-Boston Regional Airport, Manchester, NH (83mi from Hanover); Boston’s Logan Airport (128 mi); and Burlington International Airport, Burlington, VT (95mi).</p>
-		<p>The Dartmouth Coach operates several daily trips to and from Logan Airport and drops you off conveniently in front of the Hanover Inn. You will not need a vehicle for any of the wedding events if you choose to stay in Hanover.</p>
+		<p>The Dartmouth Coach operates several daily trips to and from Logan Airport and drops you off conveniently in front of the Dartmouth Green. You will not need a vehicle for any of the wedding events if you choose to stay in Hanover.</p>
 		<p>Hanover is a little over 2 hours driving distance from Boston and about 4 and half hours from New York City.</p>
 		<p>Finally, for the most adventurous, Cape Air offers direct routes from Boston Logan and NYC into Lebanon, NH. There is a rental car agency at the Lebanon airport, or if you are staying in Hanover, we are happy to help coordinate airport rides.</p>
 	</div>
