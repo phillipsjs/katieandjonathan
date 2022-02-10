@@ -28,9 +28,9 @@ nav-menu: true
 		<p>The Dartmouth Coach operates several daily trips to and from Logan Airport and drops you off conveniently in front of the Hanover Inn. You will not need a vehicle for any of the wedding events if you choose to stay in Hanover.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Lodging</h3>
-		<p>We will have a discounted room block at the <a href="https://www.hanoverinn.com/">Hanover Inn</a> and a couple of other local hotels. No need to book yet - we will provide more information soon.</p>
-		<p>If you can, staying the Hanover Inn might be the most convenient as it is the location for the Friday evening Welcome Drinks and a meeting point for transportation the ceremony at <a href="https://www.whaleback.com/">Whaleback Mountain</a>.</p>
+		<h3>Suggested Accommodations</h3>
+		<p><u>We will be providing transportation from downtown Hanover and White River Junction to Whaleback Mountain on Saturday.</u></p>
+		<p>In addition to the recommended hotels below, AirBnB and VRBO are a great option, especially for groups. There are a limited number of options in Hanover proper, but the towns of Norwich, Hartford, Wilder, Queechee, Lyme, Etna, Enfield, Lebanon, and White River Junction are all within a 15 minute drive from Hanover or Whaleback Mountain. <b>There is no Uber or Lyft in the Upper Valley; if you stay outside of downtown Hanover, you will need a car.<b> </p>
 	</div>
 	<!-- Break -->
 	<!--
