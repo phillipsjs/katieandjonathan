@@ -4,19 +4,31 @@
 		<section>
 			<form action="https://formspree.io/f/mvodejro" method="POST">
 				<div class="field half first">
-					<label for="name">Name</label>
-					<input type="text" name="name" id="name" placeholder="First and Last"/>
+					<label for="name">Your name(s)</label>
+					<input type="text" name="name" id="name" placeholder="First and Last Names"/>
 				</div>
 				<div class="field half">
-					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" placeholder="your email"/>
+					<label for="attending">Will you be able to join us?</label>
+					 <select name="attending" id="attending" required="">
+				        <option value="" selected="" disabled="">Select one</option>
+				        <option value="Yes">Yes</option>
+				        <option value="No">No</option>
+				    </select>
 				</div>
 				<div class="field">
-					<label for="message">Mailing address:</label>
-					<textarea name="message" id="message" rows="6"></textarea>
+					<label for="plus">Names of all guests, including children.</label>
+      				<input type="text" name="guests" id="all-guests" placeholder="First and last names of all guests" required="">
+				</div>
+				<div class="field">
+					<label for="welcome-drinks">Will you attend Friday evening's Welcome Drinks event at the Hanover Inn?</label>
+					<input type="text" name="drinks" id="welcome-drinks" placeholder="Number of guests attending Welcome Drinks" required="">
+				</div>
+				<div class="field">
+					<label for="lodging">Where are your planning on staying?</label>
+				    <input type="text" name="lodging" id="lodging" placeholder="Town where accommodations are located" required="">
 				</div>
 				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
+					<li><input type="submit" value="Submit RSVP" class="special" /></li>
 					<li><input type="reset" value="Clear" /></li>
 				</ul>
 			</form>
