@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQ
+title: todo
 description: In case you were wondering
 image: assets/images/running.jpg
 nav-menu: true

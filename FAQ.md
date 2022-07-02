@@ -2,7 +2,7 @@
 layout: post
 title: FAQ
 description: In case you were wondering
-image: assets/images/sanFran.HEIC
+image: assets/images/polaroid.JPG
 nav-menu: true
 ---
 
