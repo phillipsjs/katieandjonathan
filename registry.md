@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Registry
 description: How to give
 image: assets/images/sanFran.jpg

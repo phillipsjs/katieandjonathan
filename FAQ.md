@@ -6,7 +6,7 @@ image: assets/images/polaroid.JPG
 nav-menu: true
 ---
 
-# FAQ
+# Questions and Answers:
 
 ## Is this wedding kid friendly? 
 All children are welcome to join for all events associated with our wedding weekend. Dinner on Saturday night will be pizza, which should accommodate even the pickiest of eaters. Make sure the kiddos bring their dancing shoes! Alternatively, if you would like some suggestions for child care, please contact the bride for some local recommendations. 

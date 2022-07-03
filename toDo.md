@@ -1,7 +1,7 @@
 ---
-layout: page
-title: todo
-description: In case you were wondering
+layout: post
+title: to do
+description: Things to do in the Upper Valley
 image: assets/images/running.jpg
 nav-menu: true
 ---
