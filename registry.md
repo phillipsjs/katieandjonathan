@@ -6,7 +6,7 @@ image: assets/images/sanFran.jpg
 nav-menu: true
 ---
 
-# Registry
+# Want to give something?
 
 The very best present we can receive is your presence at our wedding and your love and support as we embark on this adventure together. We recognize that especially for those of you coming from far away, simply attending our wedding will already entail spending money on travel and hotel accommodations. Many of you are contributing your time and energy to this event, and for the gift of your participation we thank you. Homemade, handmade, and second hand gifts are welcomed and appreciated.
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: to do
-description: Things to do in the Upper Valley
+title: Things to do
+description: What to do in the Upper Valley
 image: assets/images/running.jpg
 nav-menu: true
 ---
 
-# Things to do
+# Some suggestions
 
 Bring your adventure spirit because the Upper Valley is a terrific region for hiking, mountain biking, and water recreation.
 
